@@ -18,8 +18,8 @@
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Quarkus" 
+    title="Quarkus"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" 
