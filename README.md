@@ -1,3 +1,9 @@
+## 👋 Olá! Eu sou o João Pedro
+
+🎓 Engenheiro de Computação em formação pela UnB  
+🛰️ Bacharel em Geofísica pela UnB  
+💻 Analista de TI no Banco do Brasil | Dev Back-end  
+
 
 ### 🤖 Linguagens e Tecnologias
 <img 
