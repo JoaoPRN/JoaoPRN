@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o João Pedro
+## João Pedro
 
 🎓 Engenheiro de Computação em formação pela UnB  
 🛰️ Bacharel em Geofísica pela UnB  
