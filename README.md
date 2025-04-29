@@ -1,9 +1,8 @@
 ## João Pedro
 
-🎓 Engenheiro de Computação em formação pela UnB  
 🛰️ Bacharel em Geofísica pela UnB  
 💻 Analista de TI no Banco do Brasil | Dev Back-end  
-
+🎓 Engenheiro de Computação em formação pela UnB  
 
 ### 🤖 Linguagens e Tecnologias
 <img 
