@@ -1,7 +1,7 @@
 ## João Pedro
 
-🛰️ Bacharel em Geofísica pela UnB  
 💻 Analista de TI no Banco do Brasil | Dev Back-end  
+🛰️ Bacharel em Geofísica pela UnB   
 🎓 Engenheiro de Computação em formação pela UnB  
 
 ### 🤖 Linguagens e Tecnologias
