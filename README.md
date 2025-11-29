@@ -2,7 +2,7 @@
 
 💻 Analista de TI no Banco do Brasil | Dev Back-end  
 🛰️ Bacharel em Geofísica pela UnB   
-🎓 Engenheiro de Computação em formação pela UnB  
+🎓 Cientista de Computação em formação pela UnB  
 
 ### 🤖 Linguagens e Tecnologias
 <img 
